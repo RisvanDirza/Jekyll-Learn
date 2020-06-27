@@ -3,7 +3,6 @@ layout: page
 title: About me
 ---
 
-# About me
 I am a PhD Research Fellow
 
 Reasons:

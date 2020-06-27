@@ -3,6 +3,7 @@ title: Personal Website
 author: Risvan Dirza
 email: risvan.dirza@gmail.com
 description: Personal Website
+baseurl: "Personal-website"
 # twitter_username: jekyllrb
 github_username: RisvanDirza
 

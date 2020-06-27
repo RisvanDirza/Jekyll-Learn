@@ -1,10 +1,10 @@
 # basic options, i can say whatever. it's a comment line
-title: Jekyll-Learn
-author: RvD
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username: jekyll
+title: Personal Website
+author: Risvan Dirza
+email: risvan.dirza@gmail.com
+description: Personal Website
+# twitter_username: jekyllrb
+github_username: RisvanDirza
 
 # Build settings
 markdown: kramdown

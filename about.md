@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+# About me
+I am a PhD Research Fellow
 
 Reasons:
 - its great.
